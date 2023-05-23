@@ -1,1 +1,1 @@
-# python
+Aqui você irá encontrar os principais métodos utilizando as principais bibliotecas para Limpeza, processamento e armazenamento de dados. Também encontrará scripts feito no Linux visando a Engenharia de dados e utilizando o Apache AirFlow. Além disso, você também vai encontrar script para Machine Learning e scripts para gerar bons insights. Espero que goste dos scripts que disponibilizei, porque são simples, objetivos e fácil de entender.
